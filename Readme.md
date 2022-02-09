@@ -7,4 +7,4 @@ ___
 * `porkill 3000`
 * `portkill 3000,3001`
 
-Create issue on [Github](https://github.com/devasghar/portkill/issues)
+Create issue on [Github](https://github.com/devasghar/homebrew-portkill/issues)
