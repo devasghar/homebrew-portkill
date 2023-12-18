@@ -1,9 +1,9 @@
-#PortKill
+# PortKill
 ___
-###Installation
+### Installation
 `brew install portkill`
 
-###Example useage
+### Example useage
 * `porkill 3000`
 * `portkill 3000,3001`
 
